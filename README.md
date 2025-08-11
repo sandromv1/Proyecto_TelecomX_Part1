@@ -47,7 +47,7 @@ Proyecto_TelecomX_Part1/
 
 ## 💡 Principales conclusiones e insights
 - La **antigüedad del cliente** es un factor determinante: clientes nuevos tienen mayor riesgo de baja.
-- Los **contratos mensuales** concentran la mayor parte del churn.
+- Los **contratos mensuales** concentran la mayor parte del Churn (evasion).
 - Determinados **servicios complementarios** están asociados a una mejor retención.
 - **Métodos de pago automáticos** parecen más efectivos para reducir la evasión.
 - Clientes con **factura digital** presentan una tasa de baja más alta, lo que podría indicar problemas de experiencia de usuario.
