@@ -13,10 +13,15 @@ Se busca:
 ## 📂 Estructura del proyecto
 
 Proyecto_TelecomX_Part1/
+
 │
+
 ├── Extraccion de los datos
+
 ├── Transformacion de los datos
+
 ├── Carga y analisis (Se presenta visualizaciones)
+
 ├── Informe Final
 
 
